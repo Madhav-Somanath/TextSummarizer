@@ -5,12 +5,13 @@ Weightage is calculated by taking words most usage in the original text.
 
 ## Process
 
-* Input the text that needs to be summarized.
+1. Input the text that needs to be summarized.
 
-* Run  the following line
+2. Run  the following line
+<br>
 ```python summarizer.py```
 
-* Output will be the text summary in ".docx" format
+3. Output will be the text summary in ".docx" format
 
 ## Libraries
 
