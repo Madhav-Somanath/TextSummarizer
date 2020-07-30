@@ -19,3 +19,9 @@ Weightage is calculated by taking words most usage in the original text.
 - import heapq
 - import nltk
 - import docx
+
+## Future Changes
+
+- Get text input from the user hosted on web-app.
+- Generate results and show on screen.
+- Improve speed of summarization for large inputs.
