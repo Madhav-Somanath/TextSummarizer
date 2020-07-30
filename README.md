@@ -8,7 +8,7 @@ Weightage is calculated by taking words most usage in the original text.
 1. Input the text that needs to be summarized.
 
 2. Run  the following line
-```python summarizer.py```
+```python summarizer.py``` on your promt/powershell.
 
 3. Output will be the text summary in ".docx" format
 
